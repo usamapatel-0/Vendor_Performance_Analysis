@@ -135,3 +135,5 @@ The `vendor_performance.pbix` file contains an interactive dashboard covering:
    ```
 4. Open `Exploratory_Data_Analysis.ipynb` and `Vendor_Performance_Analysis.ipynb` in Jupyter to reproduce the analysis and visualizations.
 5. Open `vendor_performance.pbix` in Power BI Desktop to explore the interactive dashboard.
+<img width="1231" height="737" alt="image" src="https://github.com/user-attachments/assets/5639dcf3-43df-4043-a8e8-56d4eff10217" />
+
